@@ -7,6 +7,7 @@ The repository contains implementations and demonstrations of image processing m
 ## Projects
 
 ### 1. Dictionary Learning for Image Reconstruction
+**[View implementation and technical documentation](dictionary%20learning/README.md)**
 
 This experiment investigates sparse image representation and reconstruction using a learned dictionary.
 
